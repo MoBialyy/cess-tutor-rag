@@ -6,6 +6,12 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Test outputs / inputs
+data/chunks/
+data/processed/
+data/chroma/
+data/uploads/
+
 # Hugging Face cache (large model files)
 .cache/
 
